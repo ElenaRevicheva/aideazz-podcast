@@ -12,4 +12,4 @@
 Honest, failure-first lessons from building a company with AI agents: AI-augmented development, multi-agent orchestration, marketing engines (GEO/SEO/AEO), attribution over vanity metrics, voice automation, and shipping resilient systems as a solo founder.
 
 ## Episodes
-- First episode launching soon.
+- [Daily routine of an AI-augmented solo builder](https://podcast.aideazz.xyz/episodes/voice-20260529-daily-routine-of-an-ai-augmented-solo-builder.html): Elena Revicheva shares an unfiltered look at her daily routine as an AI-augmented solo founder. This episode breaks down the practical, unglamorous reality of b
