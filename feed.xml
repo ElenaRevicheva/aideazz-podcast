@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>AIdeazz — Building in Public with AI</title>
-    <link>https://podcast.aideazz.xyz</link>
+    <link>https://aideazz-podcast-ep7z.ipfs.4everland.app</link>
     <language>en</language>
     <description>A solo founder building a company with AI agents. Honest lessons on AI-augmented building, marketing engines, and shipping in production. By Elena Revicheva.</description>
     <itunes:author>Elena Revicheva</itunes:author>
@@ -12,13 +12,13 @@
       <itunes:name>Elena Revicheva</itunes:name>
       <itunes:email>elena.revicheva2016@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://podcast.aideazz.xyz/cover.png"/>
+    <itunes:image href="https://aideazz-podcast-ep7z.ipfs.4everland.app/cover.png"/>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <image>
-      <url>https://podcast.aideazz.xyz/cover.png</url>
+      <url>https://aideazz-podcast-ep7z.ipfs.4everland.app/cover.png</url>
       <title>AIdeazz — Building in Public with AI</title>
-      <link>https://podcast.aideazz.xyz</link>
+      <link>https://aideazz-podcast-ep7z.ipfs.4everland.app</link>
     </image>
 
   </channel>
