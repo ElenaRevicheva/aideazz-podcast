@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>AIdeazz — Building in Public with AI</title>
+    <title>AIdeazz — Building in Public On The Go</title>
     <link>https://podcast.aideazz.xyz</link>
     <language>en</language>
-    <description>A solo founder building a company with AI agents. Honest lessons on AI-augmented building, marketing engines, and shipping in production. By Elena Revicheva.</description>
+    <description>Building in public, on the go — AI-augmented, agentic, from A to Z. Honest lessons on building a company with AI agents, marketing engines, and shipping in production. By Elena Revicheva.</description>
     <itunes:author>Elena Revicheva</itunes:author>
-    <itunes:summary>A solo founder building a company with AI agents. Honest lessons on AI-augmented building, marketing engines, and shipping in production. By Elena Revicheva.</itunes:summary>
+    <itunes:summary>Building in public, on the go — AI-augmented, agentic, from A to Z. Honest lessons on building a company with AI agents, marketing engines, and shipping in production. By Elena Revicheva.</itunes:summary>
     <itunes:type>episodic</itunes:type>
     <itunes:owner>
       <itunes:name>Elena Revicheva</itunes:name>
@@ -17,7 +17,7 @@
     <itunes:explicit>false</itunes:explicit>
     <image>
       <url>https://podcast.aideazz.xyz/cover.png</url>
-      <title>AIdeazz — Building in Public with AI</title>
+      <title>AIdeazz — Building in Public On The Go</title>
       <link>https://podcast.aideazz.xyz</link>
     </image>
     <item>
