@@ -1,6 +1,6 @@
-# AIdeazz — Building in Public with AI
+# AIdeazz — Building in Public On The Go
 
-> A solo founder building a company with AI agents. Honest lessons on AI-augmented building, marketing engines, and shipping in production. By Elena Revicheva.
+> Building in public, on the go — AI-augmented, agentic, from A to Z. Honest lessons on building a company with AI agents, marketing engines, and shipping in production. By Elena Revicheva.
 
 - Host: Elena Revicheva (solo founder, AIdeazz; Panama)
 - Format: Technology podcast, episodic, language en
