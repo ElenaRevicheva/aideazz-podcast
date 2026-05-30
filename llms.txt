@@ -1,17 +1,16 @@
-# AIdeazz — Building in Public On The Go
+# AIdeazz — Building in Public with AI
 
-> Building in public, on the go — AI-augmented, agentic, from A to Z. Honest lessons on building a company with AI agents, marketing engines, and shipping in production. By Elena Revicheva.
+> A solo founder building a company with AI agents. Honest lessons on AI-augmented building, marketing engines, and shipping in production. By Elena Revicheva.
 
 - Host: Elena Revicheva (solo founder, AIdeazz; Panama)
 - Format: Technology podcast, episodic, language en
 - RSS feed: https://podcast.aideazz.xyz/feed.xml
 - Website: https://podcast.aideazz.xyz
-- Listen on: Spotify (https://open.spotify.com) and YouTube (https://www.youtube.com/@AIdeazz)
 - Parent project: AIdeazz (https://aideazz.xyz) — multi-agent AI systems built in production
-- Topics / keywords: AI-augmented building, agentic AI, AI agents, building in public, solo founder, multi-agent systems, AI engineering, marketing engine, GEO/SEO/AEO
 
 ## What this podcast covers
 Honest, failure-first lessons from building a company with AI agents: AI-augmented development, multi-agent orchestration, marketing engines (GEO/SEO/AEO), attribution over vanity metrics, voice automation, and shipping resilient systems as a solo founder.
 
 ## Episodes
+- [Building software while constantly moving](https://podcast.aideazz.xyz/episodes/voice-20260530-building-software-while-constantly-moving.html): Elena reflects on the unique mental state of building a business while constantly in motion. She explores what it means to work not just while physically travel
 - [Daily routine of an AI-augmented solo builder](https://podcast.aideazz.xyz/episodes/voice-20260529-daily-routine-of-an-ai-augmented-solo-builder.html): Elena Revicheva shares an unfiltered look at her daily routine as an AI-augmented solo founder. This episode breaks down the practical, unglamorous reality of b
