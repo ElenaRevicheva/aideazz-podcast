@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>AIdeazz — Building in Public On The Go</title>
+    <title>AIdeazz — Building in Public with AI</title>
     <link>https://podcast.aideazz.xyz</link>
     <language>en</language>
-    <description>Building in public, on the go — AI-augmented, agentic, from A to Z. Honest lessons on building a company with AI agents, marketing engines, and shipping in production. By Elena Revicheva.</description>
+    <description>A solo founder building a company with AI agents. Honest lessons on AI-augmented building, marketing engines, and shipping in production. By Elena Revicheva.</description>
     <itunes:author>Elena Revicheva</itunes:author>
-    <itunes:summary>Building in public, on the go — AI-augmented, agentic, from A to Z. Honest lessons on building a company with AI agents, marketing engines, and shipping in production. By Elena Revicheva.</itunes:summary>
+    <itunes:summary>A solo founder building a company with AI agents. Honest lessons on AI-augmented building, marketing engines, and shipping in production. By Elena Revicheva.</itunes:summary>
     <itunes:type>episodic</itunes:type>
     <itunes:owner>
       <itunes:name>Elena Revicheva</itunes:name>
@@ -17,9 +17,34 @@
     <itunes:explicit>false</itunes:explicit>
     <image>
       <url>https://podcast.aideazz.xyz/cover.png</url>
-      <title>AIdeazz — Building in Public On The Go</title>
+      <title>AIdeazz — Building in Public with AI</title>
       <link>https://podcast.aideazz.xyz</link>
     </image>
+    <item>
+      <title>Building software while constantly moving</title>
+      <description>Elena reflects on the unique mental state of building a business while constantly in motion. She explores what it means to work not just while physically traveling, but in the liminal spaces between commitments—waiting for flights, between meetings, in transit.
+
+This brief opening meditation sets the stage for a conversation about the realities of running a solo AI venture while maintaining a nomadic lifestyle, and how perpetual movement shapes both productivity and creative thinking.
+
+Chapters:
+0:00 Building While Moving: Physical and Mental States
+
+Full write-up: https://aideazz.xyz/blog/why-i-stopped-waiting-for-deep-work-blocks-and-started-building-in-tax</description>
+      <itunes:summary>Elena reflects on the unique mental state of building a business while constantly in motion. She explores what it means to work not just while physically traveling, but in the liminal spaces between commitments—waiting for flights, between meetings, in transit.
+
+This brief opening meditation sets the stage for a conversation about the realities of running a solo AI venture while maintaining a nomadic lifestyle, and how perpetual movement shapes both productivity and creative thinking.
+
+Chapters:
+0:00 Building While Moving: Physical and Mental States
+
+Full write-up: https://aideazz.xyz/blog/why-i-stopped-waiting-for-deep-work-blocks-and-started-building-in-tax</itunes:summary>
+      <enclosure url="https://podcast.aideazz.xyz/audio/voice-20260530-building-software-while-constantly-moving.mp3" length="5100000" type="audio/mpeg"/>
+      <guid isPermaLink="false">voice-20260530-building-software-while-constantly-moving</guid>
+      <pubDate>Sat, 30 May 2026 17:18:32 GMT</pubDate>
+      <itunes:duration>04:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://podcast.aideazz.xyz/episodes/voice-20260530-building-software-while-constantly-moving.html</link>
+    </item>
     <item>
       <title>Daily routine of an AI-augmented solo builder</title>
       <description>Elena Revicheva shares an unfiltered look at her daily routine as an AI-augmented solo founder. This episode breaks down the practical, unglamorous reality of building with AI assistance.
