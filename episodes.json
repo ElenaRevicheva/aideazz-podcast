@@ -1,5 +1,30 @@
 [
   {
+    "id": "voice-20260604-pitching-ai-to-non-technical-investors",
+    "title": "Pitching AI to Non-Technical Investors",
+    "description": "In this brief episode snippet, we hear fragments of a conversation touching on AI-augmented technology management from a legal background perspective. The speaker discusses connecting with potential investors in the AI space, noting that not many people are familiar with what they're working on.\n\nWhile this recording captures only the opening moments of a conversation, it hints at themes around vertical integration, top-level management approaches, and the challenges of communicating AI innovations to investors who may lack technical context.",
+    "audioBytes": 3016712,
+    "durationSec": 146,
+    "chapters": [
+      {
+        "time": "0:04",
+        "title": "Introduction and Vertical Integration Discussion"
+      },
+      {
+        "time": "0:12",
+        "title": "AI-Augmented Tech Management with Legal Background"
+      },
+      {
+        "time": "0:18",
+        "title": "Investor Connection Challenges in AI"
+      }
+    ],
+    "blogUrl": "https://aideazz.xyz/blog/why-your-ai-pitch-fails-with-non-technical-investors-and-how-to-fix-it",
+    "source": "voice",
+    "audioUrl": "https://podcast.aideazz.xyz/audio/voice-20260604-pitching-ai-to-non-technical-investors.mp3",
+    "pubDate": "Thu, 04 Jun 2026 23:08:50 GMT"
+  },
+  {
     "id": "voice-20260530-building-software-while-constantly-moving",
     "title": "Building software while constantly moving",
     "description": "Elena reflects on the unique mental state of building a business while constantly in motion. She explores what it means to work not just while physically traveling, but in the liminal spaces between commitments—waiting for flights, between meetings, in transit.\n\nThis brief opening meditation sets the stage for a conversation about the realities of running a solo AI venture while maintaining a nomadic lifestyle, and how perpetual movement shapes both productivity and creative thinking.",
