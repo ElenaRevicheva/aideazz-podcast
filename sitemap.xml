@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://podcast.aideazz.xyz/</loc><changefreq>weekly</changefreq><priority>1.0</priority><lastmod>2026-05-31</lastmod></url>
+  <url><loc>https://podcast.aideazz.xyz/</loc><changefreq>weekly</changefreq><priority>1.0</priority><lastmod>2026-06-04</lastmod></url>
+  <url><loc>https://podcast.aideazz.xyz/episodes/voice-20260604-pitching-ai-to-non-technical-investors.html</loc><changefreq>monthly</changefreq><priority>0.8</priority><lastmod>2026-06-04</lastmod></url>
   <url><loc>https://podcast.aideazz.xyz/episodes/voice-20260530-building-software-while-constantly-moving.html</loc><changefreq>monthly</changefreq><priority>0.8</priority><lastmod>2026-05-30</lastmod></url>
   <url><loc>https://podcast.aideazz.xyz/episodes/voice-20260529-daily-routine-of-an-ai-augmented-solo-builder.html</loc><changefreq>monthly</changefreq><priority>0.8</priority><lastmod>2026-05-29</lastmod></url>
 </urlset>
