@@ -14,6 +14,7 @@
 Honest, failure-first lessons from building a company with AI agents: AI-augmented development, multi-agent orchestration, marketing engines (GEO/SEO/AEO), attribution over vanity metrics, voice automation, and shipping resilient systems as a solo founder.
 
 ## Episodes
+- [My WhatsApp to HubSpot AI Flywheel](https://podcast.aideazz.xyz/episodes/voice-20260611-my-whatsapp-to-hubspot-ai-flywheel.html): In this episode, Elena Revicheva reflects on how the various pieces of her one-person business are finally beginning to connect and support each other. She walk
 - [Personal RevOps for Frontier Models](https://podcast.aideazz.xyz/episodes/voice-20260611-personal-revops-for-frontier-models.html): The conversation starts by taking a step back from discussing Fable 5 to explore a broader question. The host is interested in understanding how many more front
 - [Nomadic Skill Stackers Survival](https://podcast.aideazz.xyz/episodes/voice-20260611-nomadic-skill-stackers-survival.html): In this episode, Elena Revicheva introduces the concept of the "new generation of boomers" — not retirees in their 60s, but the hyper-online digital nomads who 
 - [Experience Buffer for Digital Nomads](https://podcast.aideazz.xyz/episodes/voice-20260611-experience-buffer-for-digital-nomads.html): In this episode, Elena Revicheva reflects on the pervasive narrative that older generations (boomers) easily built wealth by simply sharing knowledge or working
