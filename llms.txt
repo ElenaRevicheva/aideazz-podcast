@@ -14,6 +14,7 @@
 Honest, failure-first lessons from building a company with AI agents: AI-augmented development, multi-agent orchestration, marketing engines (GEO/SEO/AEO), attribution over vanity metrics, voice automation, and shipping resilient systems as a solo founder.
 
 ## Episodes
+- [Nomadic Skill Stackers Survival](https://podcast.aideazz.xyz/episodes/voice-20260611-nomadic-skill-stackers-survival.html): In this episode, Elena Revicheva introduces the concept of the "new generation of boomers" — not retirees in their 60s, but the hyper-online digital nomads who 
 - [Experience Buffer for Digital Nomads](https://podcast.aideazz.xyz/episodes/voice-20260611-experience-buffer-for-digital-nomads.html): In this episode, Elena Revicheva reflects on the pervasive narrative that older generations (boomers) easily built wealth by simply sharing knowledge or working
 - [AI Build Space](https://podcast.aideazz.xyz/episodes/voice-20260611-ai-build-space.html): Today's episode is about Fable 5 and its potential for automation. The speaker used Fable 5 to automate their podcast and is excited about its capabilities. The
 - [Pitching AI to Non-Technical Investors](https://podcast.aideazz.xyz/episodes/voice-20260604-pitching-ai-to-non-technical-investors.html): In this brief episode snippet, we hear fragments of a conversation touching on AI-augmented technology management from a legal background perspective. The speak
