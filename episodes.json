@@ -1,5 +1,22 @@
 [
   {
+    "id": "voice-20260611-my-whatsapp-to-hubspot-ai-flywheel",
+    "title": "My WhatsApp to HubSpot AI Flywheel",
+    "description": "In this episode, Elena Revicheva reflects on how the various pieces of her one-person business are finally beginning to connect and support each other. She walks listeners through what that integration looks like in practice, sharing observations from her journey as a solo AI founder based in Panama.\n\nRather than treating each project or asset in isolation, Elena is seeing her content, products, systems, and audience start to talk to one another. She describes the satisfying shift from fragmented efforts to a more cohesive and self-reinforcing empire.",
+    "audioBytes": 6122400,
+    "durationSec": 306,
+    "chapters": [
+      {
+        "time": "0:00",
+        "title": "Introduction: Pieces Starting to Talk to Each Other"
+      }
+    ],
+    "blogUrl": "https://aideazz.xyz/blog/how-i-turned-whatsapp-chats-into-my-marketing-engine-using-sqlite-crew",
+    "source": "ai",
+    "audioUrl": "https://podcast.aideazz.xyz/audio/voice-20260611-my-whatsapp-to-hubspot-ai-flywheel.mp3",
+    "pubDate": "Thu, 11 Jun 2026 23:16:38 GMT"
+  },
+  {
     "id": "voice-20260611-personal-revops-for-frontier-models",
     "title": "Personal RevOps for Frontier Models",
     "description": "The conversation starts by taking a step back from discussing Fable 5 to explore a broader question. The host is interested in understanding how many more frontier models the big AI labs can ship in the next couple of years and which ones will be closest to the specification. \nThe discussion is focused on the capabilities of big AI labs and their potential to deliver frontier models. \nThe episode is an exploration of the current state of AI development and the potential for future growth.",
