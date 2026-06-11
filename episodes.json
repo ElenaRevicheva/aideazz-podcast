@@ -1,5 +1,22 @@
 [
   {
+    "id": "voice-20260611-ai-build-space",
+    "title": "AI Build Space",
+    "description": "Today's episode is about Fable 5 and its potential for automation. The speaker used Fable 5 to automate their podcast and is excited about its capabilities. The AI build space is rapidly evolving with new features, products, platforms, and models emerging every day.",
+    "audioBytes": 5054400,
+    "durationSec": 252,
+    "chapters": [
+      {
+        "time": "0:00",
+        "title": "Introduction to Fable 5"
+      }
+    ],
+    "blogUrl": "https://aideazz.xyz/blog/navigating-the-storm-of-ai-build-space",
+    "source": "ai",
+    "audioUrl": "https://podcast.aideazz.xyz/audio/voice-20260611-ai-build-space.mp3",
+    "pubDate": "Thu, 11 Jun 2026 15:19:55 GMT"
+  },
+  {
     "id": "voice-20260604-pitching-ai-to-non-technical-investors",
     "title": "Pitching AI to Non-Technical Investors",
     "description": "In this brief episode snippet, we hear fragments of a conversation touching on AI-augmented technology management from a legal background perspective. The speaker discusses connecting with potential investors in the AI space, noting that not many people are familiar with what they're working on.\n\nWhile this recording captures only the opening moments of a conversation, it hints at themes around vertical integration, top-level management approaches, and the challenges of communicating AI innovations to investors who may lack technical context.",
