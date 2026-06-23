@@ -21,6 +21,31 @@
       <link>https://podcast.aideazz.xyz</link>
     </image>
     <item>
+      <title>Why AI Agents Fail to Collaborate</title>
+      <description>In this episode, Elena Vakeva shares her raw reflections from her AI lab in Panama on why making AI agents collaborate effectively remains surprisingly difficult. As a solo founder relying heavily on AI augmentation, she explores the persistent friction she encounters when attempting to build systems where multiple agents can truly work together.
+
+Elena discusses the gap between the promise of autonomous AI teams and the practical reality she faces daily. She examines the technical, architectural, and conceptual barriers that continue to make agent coordination one of the hardest challenges in her workflow.
+
+Chapters:
+0:00 Why AI Agents Won't Work Together
+
+Full write-up: https://aideazz.xyz/blog/why-your-ai-agents-keep-stepping-on-each-others-toes</description>
+      <itunes:summary>In this episode, Elena Vakeva shares her raw reflections from her AI lab in Panama on why making AI agents collaborate effectively remains surprisingly difficult. As a solo founder relying heavily on AI augmentation, she explores the persistent friction she encounters when attempting to build systems where multiple agents can truly work together.
+
+Elena discusses the gap between the promise of autonomous AI teams and the practical reality she faces daily. She examines the technical, architectural, and conceptual barriers that continue to make agent coordination one of the hardest challenges in her workflow.
+
+Chapters:
+0:00 Why AI Agents Won't Work Together
+
+Full write-up: https://aideazz.xyz/blog/why-your-ai-agents-keep-stepping-on-each-others-toes</itunes:summary>
+      <enclosure url="https://podcast.aideazz.xyz/audio/voice-20260623-why-ai-agents-fail-to-collaborate.mp3" length="6678720" type="audio/mpeg"/>
+      <guid isPermaLink="false">voice-20260623-why-ai-agents-fail-to-collaborate</guid>
+      <pubDate>Tue, 23 Jun 2026 13:21:02 GMT</pubDate>
+      <itunes:duration>05:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://podcast.aideazz.xyz/episodes/voice-20260623-why-ai-agents-fail-to-collaborate.html</link>
+    </item>
+    <item>
       <title>My WhatsApp to HubSpot AI Flywheel</title>
       <description>In this episode, Elena Revicheva reflects on how the various pieces of her one-person business are finally beginning to connect and support each other. She walks listeners through what that integration looks like in practice, sharing observations from her journey as a solo AI founder based in Panama.
 
