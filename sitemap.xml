@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://podcast.aideazz.xyz/</loc><changefreq>weekly</changefreq><priority>1.0</priority><lastmod>2026-06-11</lastmod></url>
+  <url><loc>https://podcast.aideazz.xyz/</loc><changefreq>weekly</changefreq><priority>1.0</priority><lastmod>2026-06-23</lastmod></url>
+  <url><loc>https://podcast.aideazz.xyz/episodes/voice-20260623-why-ai-agents-fail-to-collaborate.html</loc><changefreq>monthly</changefreq><priority>0.8</priority><lastmod>2026-06-23</lastmod></url>
   <url><loc>https://podcast.aideazz.xyz/episodes/voice-20260611-my-whatsapp-to-hubspot-ai-flywheel.html</loc><changefreq>monthly</changefreq><priority>0.8</priority><lastmod>2026-06-11</lastmod></url>
   <url><loc>https://podcast.aideazz.xyz/episodes/voice-20260611-personal-revops-for-frontier-models.html</loc><changefreq>monthly</changefreq><priority>0.8</priority><lastmod>2026-06-11</lastmod></url>
   <url><loc>https://podcast.aideazz.xyz/episodes/voice-20260611-nomadic-skill-stackers-survival.html</loc><changefreq>monthly</changefreq><priority>0.8</priority><lastmod>2026-06-11</lastmod></url>
