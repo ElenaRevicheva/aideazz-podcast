@@ -1,5 +1,22 @@
 [
   {
+    "id": "voice-20260728-business-intelligence-in-an-ai-augmented-company",
+    "title": "Business Intelligence in an AI-Augmented Company",
+    "description": "Elena explores the practical reality of working with an AI co-founder in her daily business operations. Moving beyond sci-fi concepts, she dives into what business intelligence actually means when you're building with AI as your partner.\n\nThis episode examines how the traditional understanding of business intelligence - often associated with dashboards and data visualization - transforms when AI becomes an active participant in your business rather than just a tool. Elena shares her firsthand experience as a solo AI founder operating from Panama.",
+    "audioBytes": 5394240,
+    "durationSec": 269,
+    "chapters": [
+      {
+        "time": "0:00",
+        "title": "Working with an AI Co-Founder"
+      }
+    ],
+    "blogUrl": "https://aideazz.xyz/blog/business-intelligence-when-your-co-founder-is-ai",
+    "source": "ai",
+    "audioUrl": "https://podcast.aideazz.xyz/audio/voice-20260728-business-intelligence-in-an-ai-augmented-company.mp3",
+    "pubDate": "Tue, 28 Jul 2026 21:14:05 GMT"
+  },
+  {
     "id": "voice-20260623-why-ai-agents-fail-to-collaborate",
     "title": "Why AI Agents Fail to Collaborate",
     "description": "In this episode, Elena Vakeva shares her raw reflections from her AI lab in Panama on why making AI agents collaborate effectively remains surprisingly difficult. As a solo founder relying heavily on AI augmentation, she explores the persistent friction she encounters when attempting to build systems where multiple agents can truly work together.\n\nElena discusses the gap between the promise of autonomous AI teams and the practical reality she faces daily. She examines the technical, architectural, and conceptual barriers that continue to make agent coordination one of the hardest challenges in her workflow.",
