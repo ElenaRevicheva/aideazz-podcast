@@ -21,6 +21,31 @@
       <link>https://podcast.aideazz.xyz</link>
     </image>
     <item>
+      <title>Business Intelligence in an AI-Augmented Company</title>
+      <description>Elena explores the practical reality of working with an AI co-founder in her daily business operations. Moving beyond sci-fi concepts, she dives into what business intelligence actually means when you're building with AI as your partner.
+
+This episode examines how the traditional understanding of business intelligence - often associated with dashboards and data visualization - transforms when AI becomes an active participant in your business rather than just a tool. Elena shares her firsthand experience as a solo AI founder operating from Panama.
+
+Chapters:
+0:00 Working with an AI Co-Founder
+
+Full write-up: https://aideazz.xyz/blog/business-intelligence-when-your-co-founder-is-ai</description>
+      <itunes:summary>Elena explores the practical reality of working with an AI co-founder in her daily business operations. Moving beyond sci-fi concepts, she dives into what business intelligence actually means when you're building with AI as your partner.
+
+This episode examines how the traditional understanding of business intelligence - often associated with dashboards and data visualization - transforms when AI becomes an active participant in your business rather than just a tool. Elena shares her firsthand experience as a solo AI founder operating from Panama.
+
+Chapters:
+0:00 Working with an AI Co-Founder
+
+Full write-up: https://aideazz.xyz/blog/business-intelligence-when-your-co-founder-is-ai</itunes:summary>
+      <enclosure url="https://podcast.aideazz.xyz/audio/voice-20260728-business-intelligence-in-an-ai-augmented-company.mp3" length="5394240" type="audio/mpeg"/>
+      <guid isPermaLink="false">voice-20260728-business-intelligence-in-an-ai-augmented-company</guid>
+      <pubDate>Tue, 28 Jul 2026 21:14:05 GMT</pubDate>
+      <itunes:duration>04:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://podcast.aideazz.xyz/episodes/voice-20260728-business-intelligence-in-an-ai-augmented-company.html</link>
+    </item>
+    <item>
       <title>Why AI Agents Fail to Collaborate</title>
       <description>In this episode, Elena Vakeva shares her raw reflections from her AI lab in Panama on why making AI agents collaborate effectively remains surprisingly difficult. As a solo founder relying heavily on AI augmentation, she explores the persistent friction she encounters when attempting to build systems where multiple agents can truly work together.
 
