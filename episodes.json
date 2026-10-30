@@ -1,5 +1,38 @@
 [
   {
+    "id": "voice-20261030-evolving-ai-agents-beyond-generic-bots",
+    "title": "Evolving AI agents beyond generic bots",
+    "description": "The episode opens with a single question about the feasibility of AI agents that go beyond generic bot behavior—agents that can truly evolve, learn, and retain information in real time. The host, Elena Revicheva, frames the discussion around whether such capabilities are merely theoretical or can be realized in practice.\n\nGiven the limited content, the conversation centers on the conceptual challenges of moving from static, scripted AI to dynamic, memory-enabled systems, and hints at the broader implications for AI product development and user experience.",
+    "audioBytes": 990549,
+    "durationSec": 187,
+    "chapters": [
+      {
+        "time": "0:00",
+        "title": "Opening question: Evolving AI agents"
+      },
+      {
+        "time": "0:00",
+        "title": "Current state of generic bots"
+      },
+      {
+        "time": "0:00",
+        "title": "Concept of real‑time learning and memory"
+      },
+      {
+        "time": "0:00",
+        "title": "Technical challenges and possibilities"
+      },
+      {
+        "time": "0:00",
+        "title": "Implications for AI product strategy"
+      }
+    ],
+    "blogUrl": "https://aideazz.xyz/blog/can-ai-agents-really-evolve-onthefly-a-founders-reality-check",
+    "source": "voice",
+    "audioUrl": "https://podcast.aideazz.xyz/audio/voice-20261030-evolving-ai-agents-beyond-generic-bots.mp3",
+    "pubDate": "Fri, 30 Oct 2026 13:50:57 GMT"
+  },
+  {
     "id": "voice-20260728-three-intelligences-ai-needs-for-filmmaking",
     "title": "Three Intelligences AI Needs for Filmmaking",
     "description": "Elena explores a fascinating question: can AI agents actually make films in a way that feels human? This isn't about using AI for editing or visual effects, but about the deeper creative process of filmmaking itself.\n\nIn this brief reflection, Elena begins to unpack what filmmaking really means and sets the stage for a deeper conversation about AI's role in creative storytelling. She's thinking through how autonomous agents might approach the art form differently than traditional tools.",
