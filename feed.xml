@@ -21,6 +21,39 @@
       <link>https://podcast.aideazz.xyz</link>
     </image>
     <item>
+      <title>Evolving AI agents beyond generic bots</title>
+      <description>The episode opens with a single question about the feasibility of AI agents that go beyond generic bot behavior—agents that can truly evolve, learn, and retain information in real time. The host, Elena Revicheva, frames the discussion around whether such capabilities are merely theoretical or can be realized in practice.
+
+Given the limited content, the conversation centers on the conceptual challenges of moving from static, scripted AI to dynamic, memory-enabled systems, and hints at the broader implications for AI product development and user experience.
+
+Chapters:
+0:00 Opening question: Evolving AI agents
+0:00 Current state of generic bots
+0:00 Concept of real‑time learning and memory
+0:00 Technical challenges and possibilities
+0:00 Implications for AI product strategy
+
+Full write-up: https://aideazz.xyz/blog/can-ai-agents-really-evolve-onthefly-a-founders-reality-check</description>
+      <itunes:summary>The episode opens with a single question about the feasibility of AI agents that go beyond generic bot behavior—agents that can truly evolve, learn, and retain information in real time. The host, Elena Revicheva, frames the discussion around whether such capabilities are merely theoretical or can be realized in practice.
+
+Given the limited content, the conversation centers on the conceptual challenges of moving from static, scripted AI to dynamic, memory-enabled systems, and hints at the broader implications for AI product development and user experience.
+
+Chapters:
+0:00 Opening question: Evolving AI agents
+0:00 Current state of generic bots
+0:00 Concept of real‑time learning and memory
+0:00 Technical challenges and possibilities
+0:00 Implications for AI product strategy
+
+Full write-up: https://aideazz.xyz/blog/can-ai-agents-really-evolve-onthefly-a-founders-reality-check</itunes:summary>
+      <enclosure url="https://podcast.aideazz.xyz/audio/voice-20261030-evolving-ai-agents-beyond-generic-bots.mp3" length="990549" type="audio/mpeg"/>
+      <guid isPermaLink="false">voice-20261030-evolving-ai-agents-beyond-generic-bots</guid>
+      <pubDate>Fri, 30 Oct 2026 13:50:57 GMT</pubDate>
+      <itunes:duration>03:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://podcast.aideazz.xyz/episodes/voice-20261030-evolving-ai-agents-beyond-generic-bots.html</link>
+    </item>
+    <item>
       <title>Three Intelligences AI Needs for Filmmaking</title>
       <description>Elena explores a fascinating question: can AI agents actually make films in a way that feels human? This isn't about using AI for editing or visual effects, but about the deeper creative process of filmmaking itself.
 
